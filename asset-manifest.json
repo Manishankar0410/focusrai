@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/focusrai/static/css/main.073c9b0a.css",
+    "main.js": "/focusrai/static/js/main.11485661.js",
+    "static/js/787.309d4229.chunk.js": "/focusrai/static/js/787.309d4229.chunk.js",
+    "pdf.worker.js": "/focusrai/e7e915313973ba1d49f9bb2a1998626e.js",
+    "index.html": "/focusrai/index.html",
+    "main.073c9b0a.css.map": "/focusrai/static/css/main.073c9b0a.css.map",
+    "main.11485661.js.map": "/focusrai/static/js/main.11485661.js.map",
+    "787.309d4229.chunk.js.map": "/focusrai/static/js/787.309d4229.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.11485661.js"
+  ]
+}
